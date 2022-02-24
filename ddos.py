@@ -1,3 +1,17 @@
+#! /bin/bash 
+
+#DDOS atk _
+# Version: 0.1
+# Description: Atk DDOS, A Simple Script That Allows You To Overload IP To The Point Of Going OFF-LINE! 
+# Author: tekashiZiinMaKer
+# Github: https://github.com/tekashiZiinMaKer
+# E-mail: tekashimaker504@gmail.com
+# Crédits: tekashiZiinMaKer
+# Date: 24-02-2022
+# Language: Python
+# Portable: file 
+# Sif you copy, consider giving credit! We keep our code  open source to help others
+
 import sys
 import os
 import time
