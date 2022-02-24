@@ -23,7 +23,7 @@ print
 print(' Author   : TEKASHI')
 print(' github   : https://github.com/tekashiZiinMaKer')
 print
-ip = raw_input("IP Target : ")
+ip = int(input(' IP Target : '))
 port = input("Port       : ")
 
 os.system("clear")
