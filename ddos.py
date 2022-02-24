@@ -24,7 +24,7 @@ print(' Author   : tekashiZiinMaKer)
 print(' github   : https://github.com/tekashiZiinMaKer')
 print
 ip = int(input(' IP Target : '))
-port = input("Port       : ")
+port = input("   Port      : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
