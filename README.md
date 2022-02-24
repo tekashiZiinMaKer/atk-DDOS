@@ -9,15 +9,15 @@ Attack DDOS, A Simple Script That Allows You to Overload IP!
 ### [+] Installation
 
  - `git clone https://github.com/tekashiZiinMaKer/atk-DDOS`
- - `chmod +x ddos.py`
- - `cd GeneratorCCs`
+ - `chmod +x ddos.py.2`
+ - `cd atk-DDOS`
 
 For termux, use command final
- - `python ddos.py`
+ - `python ddos.py.2`
 
 ##### Or Run Directly
 ```
-wget https://raw.githubusercontent.com/tekashiZiinMaKer/atk-DDOS/main/ddos.py && chmod +x ddos.py && python ddos.py
+wget https://raw.githubusercontent.com/tekashiZiinMaKer/atk-DDOS/main/ddos.py && chmod +x ddos.py && cd atk-DDOS && python ddos.py.2
 ```
 ### [+] Features
  - Tear down IP
