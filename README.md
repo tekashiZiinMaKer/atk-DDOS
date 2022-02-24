@@ -23,7 +23,7 @@ wget https://raw.githubusercontent.com/tekashiZiinMaKer/atk-DDOS/main/ddos.py &&
  - Tear down IP
  - Very fast 
 ### [+] Demonstration
-![HOME(Demonstration)](https://user-images.githubusercontent.com/98004421/155219229-760e1f1c-002b-4653-97f0-2f681318d7e1.jpg)
+![HOME(Demonstration)](https://user-images.githubusercontent.com/98004421/155472760-80f15331-ea04-428d-a25e-5beb591961e9.gif)
 
 ## **Contaction**
 <p align="left">
